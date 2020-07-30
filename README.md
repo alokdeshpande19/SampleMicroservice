@@ -1,7 +1,7 @@
 # SampleMicroservice
 Sample Microservice contains the below services:
 
-client-facing-service is the first service  <br />
-greeting-service is the second service which returns Hello  <br />
-name-extractor-service is the third service which extracts the names from the provided input <br />
-discovery-serivce is a basic service discovery server used identify client services dynamically  <br />
+1. client-facing-service is the first service  <br /> <br />
+2. greeting-service is the second service which returns Hello  <br /> <br />
+3. name-extractor-service is the third service which extracts the names from the provided input <br /> <br />
+4. discovery-serivce is a basic service discovery server used identify client services dynamically  <br /> <br />
